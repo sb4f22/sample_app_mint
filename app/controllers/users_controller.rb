@@ -2,7 +2,6 @@ class UsersController < ApplicationController
   def show
   	@user = User.find(params[:id])
   end
-<<<<<<< HEAD
 
   def new
   	@user = User.new
@@ -16,9 +15,7 @@ class UsersController < ApplicationController
   	else render 'new'
   	end
   end
-=======
   def new
   	@user = User.new
   end
->>>>>>> 73d3744b88ce159fae7d0c914470f737f255da60
 end
