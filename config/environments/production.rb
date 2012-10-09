@@ -20,10 +20,13 @@ SampleApp::Application.configure do
   # Generate digests for assets URLs
   config.assets.digest = true
 
+<<<<<<< HEAD
   # Force all access to the app over SSL, use Strict-Transport-Security, 
   # and use secure cookies.
   config.force_ssl = true
 
+=======
+>>>>>>> 73d3744b88ce159fae7d0c914470f737f255da60
   # Defaults to nil and saved in location specified by config.assets.prefix
   # config.assets.manifest = YOUR_PATH
 

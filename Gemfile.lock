@@ -150,7 +150,10 @@ GEM
       nokogiri (~> 1.3)
 
 PLATFORMS
+<<<<<<< HEAD
   ruby
+=======
+>>>>>>> 73d3744b88ce159fae7d0c914470f737f255da60
   x86-mingw32
 
 DEPENDENCIES
